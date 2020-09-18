@@ -1,0 +1,16 @@
+Instalar JDK:
+
+-Buscar en google JDK
+-Descargamos la version 64 o 32 bits
+-Instalamos normalmente el JDK dame siguiente siguiente
+-Una ves instalado, abrimos disco C/Archivos de programa/Java/jdk/bin/
+-Copiamos la rura de estas librerias en las que estabamos
+-C:\Program Files\Java\jdk1.8.0_241\bin
+-Abrimos Panel de Control/Sistema y seguridad/Sistema- nos vamos a "Configuracion avanzada del Sistema"
+-En la nueva ventana que se abrio nos vamos a "Variables de Entorno"
+-Se nos abre otra ventana y en el recuadro que dice "Variables del sistema" buscamos una opcion que diga "Path"
+-Seleccionamos esta opcion con un clic y damos en Editar
+-Nos vamos hasta el final de esa linea y damos punto y coma y pegamos la ruta anterior de Java que habiamos copiado
+-Aceptamos todas las opciones hasta que se cierre
+-Probamos que ya este instalado el JDK abriendo el simbolo del sistema y tecleamos java y damos enter
+-Tiene que salir texto o que reconozca este comando, de esta forma ya esta instalado el JDK
